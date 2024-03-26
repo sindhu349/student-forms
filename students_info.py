@@ -2,7 +2,8 @@ import tkinter as k
 import mysql.connector as sq
 import tkinter.messagebox 
 
-cn=sq.connect(database='db1',user='root',password='root')
+cn=sq.connect(database='db1',user='root',password='roottt
+')
 w=k.Tk()
 w.title('stu')
 w.geometry('200x200')
